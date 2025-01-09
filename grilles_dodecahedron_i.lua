@@ -1,6 +1,6 @@
 puzzles:add{
-  id = 'grilles_minx_i',
-  name = 'Grilles Minx I',
+  id = 'grilles_dodecahedron_i',
+  name = 'Grilles Dodecahedron I',
   version = '1.0.0',
   ndim = 3,
   colors = "dodecahedron",
