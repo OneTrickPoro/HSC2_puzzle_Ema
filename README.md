@@ -4,6 +4,12 @@ It's really possible they will never well done and refined at top level.
 The first are basically combination of vertex + faces turning puzzles.
 
 ## Some pictures
-![Grilles Dodecahedron II](/pic/grilles_dode_ii.png)
-![5x5x5+ corner twist 3](/pic/5^3+ct3.png)
-![Rayminx](/pic/rayminx.png)
+<p float="left">
+<img src="/pic/grilles_dode_ii.png" width=33% height=33%>
+  <img src="/pic/octa_prism.png" width=30% height=30%>
+
+  </p>
+  <p float="left">
+<img src="/pic/rayminx.png" width=33% height=33%>
+<img src="/pic/5^3+ct3.png" width=33% height=33%>
+</p>
