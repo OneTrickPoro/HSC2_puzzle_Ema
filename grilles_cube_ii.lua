@@ -1,5 +1,5 @@
 puzzles:add{
-  id = 'grilles_ii',
+  id = 'grilles_cube_ii',
   name = 'Grilles Cube II',
   version = '1.0.0',
   ndim = 3,
